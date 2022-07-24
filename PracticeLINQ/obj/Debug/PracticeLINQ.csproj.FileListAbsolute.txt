@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\bin\Debug\PracticeLINQ.exe.config
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\bin\Debug\PracticeLINQ.exe
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\bin\Debug\PracticeLINQ.pdb
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.exe
+C:\Users\Damion\source\repos\PracticeLINQ\PracticeLINQ\obj\Debug\PracticeLINQ.pdb
